@@ -1,3 +1,7 @@
+# TECNOLOGIAS UTILIZADAS NO PROJETO
+
+<img src="https://i.ibb.co/NK8mhKg/1658745702806.jpg" />
+
 # SUPERMERCADO SQ - BACKEND / DATABASE
 
 ## Documentação 
